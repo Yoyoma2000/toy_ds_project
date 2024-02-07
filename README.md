@@ -1,2 +1,2 @@
 # toy_ds_project
-DSCI tutorial
+project creation date: Feb 06, 2024
